@@ -127,7 +127,7 @@
 }
 
 .clock_main {
-    margin-top: 46px;
+    margin-top: 26px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -141,7 +141,7 @@
 }
 
 .clock_main_data {
-    margin-top: 46px;
+    margin-top: 26px;
     font-size: 20px;
     line-height: 30px;
     color: #605E65;
